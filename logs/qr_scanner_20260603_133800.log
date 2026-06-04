@@ -1,0 +1,18 @@
+2026-06-03 13:38:00 | INFO     | __main__                  | ============================================================
+2026-06-03 13:38:00 | INFO     | __main__                  |   Advanced QR Code Detector & Decoder
+2026-06-03 13:38:00 | INFO     | __main__                  |   Starting application...
+2026-06-03 13:38:00 | INFO     | __main__                  | ============================================================
+2026-06-03 13:38:01 | INFO     | __main__                  | Launching dashboard...
+2026-06-03 13:38:01 | INFO     | core.zxing_decoder        | ZXingDecoder initialized (zxing-cpp backend)
+2026-06-03 13:38:01 | INFO     | core.enhancer             | ImageEnhancer initialized with 33 enhancement steps
+2026-06-03 13:38:01 | INFO     | core.qr_detector          | QRDetector initialized
+2026-06-03 13:38:01 | INFO     | core.image_decoder        | ImageDecoder initialized
+2026-06-03 13:38:01 | INFO     | core.zxing_decoder        | ZXingDecoder initialized (zxing-cpp backend)
+2026-06-03 13:38:01 | INFO     | core.enhancer             | ImageEnhancer initialized with 33 enhancement steps
+2026-06-03 13:38:01 | INFO     | core.frame_selector       | FrameSelector initialized
+2026-06-03 13:38:01 | INFO     | core.qr_detector          | QRDetector initialized
+2026-06-03 13:38:01 | INFO     | core.video_decoder        | VideoDecoder initialized
+2026-06-03 13:38:04 | INFO     | ui.dashboard              | Dashboard initialized
+2026-06-03 13:38:25 | INFO     | ui.dashboard              | Image selected: C:/Users/Admin/Desktop/sample qr/images.png
+2026-06-03 13:39:08 | INFO     | ui.dashboard              | Video selected: C:/Users/Admin/Downloads/WhatsApp Video 2026-06-02 at 2.11.44 PM.mp4
+2026-06-03 13:39:11 | INFO     | core.frame_selector       | Ranked 8 frames, top score: 0.6721
